@@ -1,0 +1,2 @@
+# OptimizasyonAlgoritmalari_Odev
+Selçuk Üniversitesi Bilgisayar Mühendisliği Doktora Programı
